@@ -9,10 +9,13 @@ about:
       href: https://github.com/juliamariap
 ---
 
+*Psychologist | Researcher*
+
+PhD candidate in Neuropsychology (in progress)
+
+## Education
+
+BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020
+---
+
 This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

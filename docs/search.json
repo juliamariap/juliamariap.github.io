@@ -4,17 +4,28 @@
     "href": "index.html",
     "title": "Julia Maria Pereira",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Psychologist | Researcher\nPhD candidate in Neuropsychology (in progress)"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Julia Maria Pereira",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "index.html#bsc-psychology-university-of-vale-do-sapucaí-univás-2020",
+    "href": "index.html#bsc-psychology-university-of-vale-do-sapucaí-univás-2020",
+    "title": "Julia Maria Pereira",
+    "section": "BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020",
+    "text": "BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020\nThis is a Quarto website."
   },
   {
     "objectID": "projects/project2.html",
     "href": "projects/project2.html",
     "title": "Transgender Representation in Media",
     "section": "",
-    "text": "Research exploring the representation of transgender and non-binary individuals in media and its social implications.",
-    "crumbs": [
-      "Transgender Representation in Media"
-    ]
+    "text": "Research exploring the representation of transgender and non-binary individuals in media and its social implications."
   },
   {
     "objectID": "about.html",
