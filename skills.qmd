@@ -1,0 +1,41 @@
+---
+title: "Skills"
+date-modified: last-modified
+---
+
+## Research Methods
+
+- Neuropsychological Assessment
+- Clinical Interviews
+- Qualitative Research & Field Research
+- Data Collection & Literature Review
+
+## Technical & Data
+
+- R *(in progress)*
+- Python *(in progress)*
+- Microsoft Excel
+- Quarto · Git · GitHub
+
+## Neuroimaging Interests
+
+- fMRI *(developing)*
+- EEG *(developing)*
+- Face Recognition · Cognitive Neuroscience
+
+## Languages
+
+- Portuguese — Native
+- English — Advanced
+
+## Clinical Skills
+
+- Individual Therapy
+- Treatment Planning
+- Psychological Testing & Patient Assessment
+
+## Complementary Education
+
+- **Personality and Neuropsychology** (10h) — Advance Psychology and Development, Oct 2020
+- **I South of Minas Gerais LGBTQIA+ Health Symposium** — FMIt, UNIFENAS & UNIVÁS, Jul–Oct 2020
+- **Forensic Psychology** (9h) — Helix Courses, Poços de Caldas, Feb 2019

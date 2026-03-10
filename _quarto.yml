@@ -16,6 +16,11 @@ website:
         text: Experience
       - href: research.qmd
         text: Research
+      - href: skills.qmd
+        text: Skills
+      - href: writing.qmd
+        text: Writing Samples
+        
     right:
       - href: https://github.com/juliamariap
         text: "GitHub"

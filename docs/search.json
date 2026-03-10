@@ -1,24 +1,73 @@
 [
   {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
     "section": "",
-    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+    "text": "Neuropsychological Assessment\nClinical Interviews\nQualitative Research & Field Research\nData Collection & Literature Review"
   },
   {
-    "objectID": "cv.html#skills",
-    "href": "cv.html#skills",
-    "title": "CV",
+    "objectID": "skills.html#research-methods",
+    "href": "skills.html#research-methods",
+    "title": "Skills",
     "section": "",
-    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+    "text": "Neuropsychological Assessment\nClinical Interviews\nQualitative Research & Field Research\nData Collection & Literature Review"
   },
   {
-    "objectID": "cv.html#experience",
-    "href": "cv.html#experience",
-    "title": "CV",
-    "section": "Experience",
-    "text": "Experience\nClinical Psychology Intern | University of Vale do Sapucaí | 2020\nPublic Health Psychologist Intern | University of Vale do Sapucaí | 2020\nSocial Psychology Research Intern | CIAMPAR | 2018\nPsychopedagogy Intern | CEMEI Professora Vita Alves de Lima | 2017\nAu Pair | Solon, Ohio, USA | 2022–2024"
+    "objectID": "skills.html#technical-data",
+    "href": "skills.html#technical-data",
+    "title": "Skills",
+    "section": "Technical & Data",
+    "text": "Technical & Data\n\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nQuarto · Git · GitHub"
+  },
+  {
+    "objectID": "skills.html#neuroimaging-interests",
+    "href": "skills.html#neuroimaging-interests",
+    "title": "Skills",
+    "section": "Neuroimaging Interests",
+    "text": "Neuroimaging Interests\n\nfMRI (developing)\nEEG (developing)\nFace Recognition · Cognitive Neuroscience"
+  },
+  {
+    "objectID": "skills.html#languages",
+    "href": "skills.html#languages",
+    "title": "Skills",
+    "section": "Languages",
+    "text": "Languages\n\nPortuguese — Native\nEnglish — Advanced"
+  },
+  {
+    "objectID": "skills.html#clinical-skills",
+    "href": "skills.html#clinical-skills",
+    "title": "Skills",
+    "section": "Clinical Skills",
+    "text": "Clinical Skills\n\nIndividual Therapy\nTreatment Planning\nPsychological Testing & Patient Assessment"
+  },
+  {
+    "objectID": "skills.html#complementary-education",
+    "href": "skills.html#complementary-education",
+    "title": "Skills",
+    "section": "Complementary Education",
+    "text": "Complementary Education\n\nPersonality and Neuropsychology (10h) — Advance Psychology and Development, Oct 2020\nI South of Minas Gerais LGBTQIA+ Health Symposium — FMIt, UNIFENAS & UNIVÁS, Jul–Oct 2020\nForensic Psychology (9h) — Helix Courses, Poços de Caldas, Feb 2019"
+  },
+  {
+    "objectID": "writing.html",
+    "href": "writing.html",
+    "title": "Writing Samples",
+    "section": "",
+    "text": "Academic writing is where rigor meets voice. Below you will find samples that reflect my ability to synthesize scientific literature, build arguments, and communicate complex ideas clearly."
+  },
+  {
+    "objectID": "writing.html#undergraduate-thesis-in-preparation",
+    "href": "writing.html#undergraduate-thesis-in-preparation",
+    "title": "Writing Samples",
+    "section": "Undergraduate Thesis (in preparation)",
+    "text": "Undergraduate Thesis (in preparation)\nNeuropsychological Assessment in Patients with Schizophrenia\nThis thesis examines the neuropsychological profiles of patients diagnosed with schizophrenia undergoing multidisciplinary treatment. The work integrates clinical assessment data with current literature on cognitive impairment and treatment outcomes. Manuscript currently being prepared for submission.\nComing soon."
+  },
+  {
+    "objectID": "writing.html#research-summary",
+    "href": "writing.html#research-summary",
+    "title": "Writing Samples",
+    "section": "Research Summary",
+    "text": "Research Summary\nTransgender Representation in Media and Its Social Implications | 2018–2019\nA research summary exploring how the portrayal of transgender and non-binary individuals in mainstream media shapes public perceptions of gender identity and social"
   },
   {
     "objectID": "experience.html",
@@ -110,5 +159,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nClinical Psychology Intern | University of Vale do Sapucaí | 2020\nPublic Health Psychologist Intern | University of Vale do Sapucaí | 2020\nSocial Psychology Research Intern | CIAMPAR | 2018\nPsychopedagogy Intern | CEMEI Professora Vita Alves de Lima | 2017\nAu Pair | Solon, Ohio, USA | 2022–2024"
   }
 ]
