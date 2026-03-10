@@ -7,15 +7,19 @@ about:
     - icon: github
       text: Github
       href: https://github.com/juliamariap
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/juliamariapereira
+    - icon: download
+      text: Download CV
+      href: CV_Julia_Pereira.pdf
 ---
 
-*Psychologist | Researcher*
+*Psychologist · Researcher*
 
-PhD candidate in Neuropsychology (in progress)
-
-## Education
-
-BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020
+Driven by curiosity about the brain, behavior, and what lies between them.
+My work sits at the intersection of neuropsychology and clinical psychology,
+with a growing focus on face recognition and neuroimaging methods.
 ---
 
 This is a Quarto website.
