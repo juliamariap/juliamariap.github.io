@@ -1,4 +1,8 @@
 ---
+
+---
+
+---
 title: "Contact"
 date-modified: last-modified
 ---
@@ -13,7 +17,7 @@ I am always open to conversations about research, neuropsychology, PhD opportuni
 
 📍 **Location:** Virginia, United States
 
-💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/juliapereiram)juliamariapereira
+💼 **LinkedIn:** [linkedin.com/in/juliamariapereira](https://linkedin.com/in/juliamariapereira)
 
 🐙 **GitHub:** [github.com/juliamariap](https://github.com/juliamariap)
 
