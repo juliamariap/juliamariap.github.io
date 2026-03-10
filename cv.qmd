@@ -1,5 +1,27 @@
 ---
-title: "cv"
-format: html
+title: "CV"
+date-modified: last-modified
 ---
 
+## Skills
+
+- Neuropsychological Assessment
+- Clinical Psychology
+- Research Methods
+- R (in progress)
+- Python (in progress)
+- Microsoft Excel
+- English (Advanced)
+- Portuguese (Native)
+
+## Experience
+
+**Clinical Psychology Intern** | University of Vale do Sapucaí | 2020
+
+**Public Health Psychologist Intern** | University of Vale do Sapucaí | 2020
+
+**Social Psychology Research Intern** | CIAMPAR | 2018
+
+**Psychopedagogy Intern** | CEMEI Professora Vita Alves de Lima | 2017
+
+**Au Pair** | Solon, Ohio, USA | 2022–2024

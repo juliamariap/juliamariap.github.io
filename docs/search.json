@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Neuropsychological Assessment\nClinical Psychology\nResearch Methods\nR (in progress)\nPython (in progress)\nMicrosoft Excel\nEnglish (Advanced)\nPortuguese (Native)"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nClinical Psychology Intern | University of Vale do Sapucaí | 2020\nPublic Health Psychologist Intern | University of Vale do Sapucaí | 2020\nSocial Psychology Research Intern | CIAMPAR | 2018\nPsychopedagogy Intern | CEMEI Professora Vita Alves de Lima | 2017\nAu Pair | Solon, Ohio, USA | 2022–2024"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Julia Maria Pereira",
@@ -19,6 +40,13 @@
     "title": "Julia Maria Pereira",
     "section": "BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020",
     "text": "BSc Psychology, University of Vale do Sapucaí (UNIVÁS) | 2020\nThis is a Quarto website."
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Neuropsychological Assessment in Schizophrenia",
+    "section": "",
+    "text": "Research examining the neuropsychological profiles of patients with schizophrenia undergoing multidisciplinary treatment."
   },
   {
     "objectID": "projects/project2.html",

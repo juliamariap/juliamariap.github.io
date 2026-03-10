@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "CV_Julia_Pereira.pdf"
 
 website:
   title: "Julia Maria Pereira"
@@ -10,11 +12,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - cv.qmd
-      - text: "Projects"
-        menu:
-          - projects/project1.qmd
-          - projects/project2.qmd
     right:
       - href: https://github.com/juliamariap
         text: "GitHub"
@@ -24,6 +21,6 @@ format:
   html:
     theme:
       - cosmo
-      - brand
+      - brand.scss
     css: styles.css
     toc: true

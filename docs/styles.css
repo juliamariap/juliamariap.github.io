@@ -1,1 +1,67 @@
-/* css styles */
+/* ── Fonts ── */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap');
+
+/* ── Variables ── */
+:root {
+  --cream: #FAF7F2;
+  --charcoal: #1C1C1E;
+  --warm-gray: #6B6560;
+  --accent: #7C5C3E;
+  --accent-light: #C9A882;
+  --border: #E5DDD4;
+}
+
+/* ── Base ── */
+body {
+  font-family: 'DM Sans', sans-serif;
+  background-color: var(--cream);
+  color: var(--charcoal);
+  font-weight: 300;
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 400;
+}
+
+h2 { color: var(--accent); }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+a:hover { color: var(--accent-light); }
+
+/* ── Navbar ── */
+.navbar {
+  background-color: var(--cream) !important;
+  border-bottom: 1px solid var(--border);
+}
+.navbar-brand {
+  font-family: 'Cormorant Garamond', serif;
+  color: var(--charcoal) !important;
+}
+.navbar .nav-link {
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--warm-gray) !important;
+}
+.navbar .nav-link:hover,
+.navbar .nav-link.active {
+  color: var(--accent) !important;
+}
+
+/* ── Jolla template ── */
+.quarto-about-jolla img {
+  border: 2px solid var(--border);
+}
+.quarto-about-jolla .about-link {
+  color: var(--accent) !important;
+  border-color: var(--accent) !important;
+}
+.quarto-about-jolla .about-link:hover {
+  background-color: var(--accent) !important;
+  color: var(--cream) !important;
+}
