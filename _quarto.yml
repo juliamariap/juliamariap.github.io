@@ -1,14 +1,20 @@
 project:
-  output-dir: docs
   type: website
+  output-dir: docs
 
 website:
-  title: "juliapereira.github.io"
+  title: "Julia Maria Pereira"
+  favicon: favicon.svg
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - cv.qmd
+    right: 
+      - href: https://github.com/juliamariap
+        text: "GitHub"
+        icon: github
 
 format:
   html:
@@ -17,6 +23,4 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
-
+    
