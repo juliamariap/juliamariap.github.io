@@ -1,5 +1,12 @@
 ---
-title: "juliapereira.github.io"
+title: "Julia Maria Pereira"
+about:
+  template: jolla
+  image: images/avatar.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/juliamariap
 ---
 
 This is a Quarto website.
