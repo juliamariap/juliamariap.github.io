@@ -11,10 +11,20 @@ website:
       - href: index.qmd
         text: Home
       - cv.qmd
-    right: 
+      - sidebar:projects
+    right:
       - href: https://github.com/juliamariap
         text: "GitHub"
         icon: github
+  sidebar:
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+        - projects/project1.qmd
+        - projects/project2.qmd
 
 format:
   html:
@@ -23,4 +33,3 @@ format:
       - brand
     css: styles.css
     toc: true
-    
