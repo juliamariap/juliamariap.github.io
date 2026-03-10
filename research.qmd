@@ -1,0 +1,16 @@
+---
+title: "Research"
+date-modified: last-modified
+---
+
+## Current Interests
+
+I am particularly fascinated by **face recognition** — a deceptively complex cognitive process 
+that touches identity, memory, social perception, and neural architecture. I am eager to explore 
+this domain using neuroimaging methods such as **fMRI** and **EEG**.
+
+---
+
+## Research Projects
+
+**Neuropsychological Assessment in Schizophreni
