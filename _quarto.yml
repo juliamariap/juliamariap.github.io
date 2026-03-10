@@ -20,7 +20,8 @@ website:
         text: Skills
       - href: writing.qmd
         text: Writing Samples
-        
+      - href: contact.qmd
+        text: Contact
     right:
       - href: https://github.com/juliamariap
         text: "GitHub"
