@@ -10,6 +10,7 @@ I am particularly fascinated by face recognition — a deceptively complex cogni
 My research interests focus on understanding how the brain supports this ability, and how variations in these processes can shape the way we perceive and interact with others. I am especially interested in exploring these questions using neuroimaging methods such as fMRI and EEG, which allow us to investigate the neural dynamics underlying face perception and recognition.
 
 More broadly, I am drawn to questions about how the brain integrates perceptual information with memory and identity, and how these processes shape our social experience. While face recognition is a current focus of my curiosity, I am open to contributing to a wide range of questions within cognitive neuroscience, neuropsychology, and related areas.
+
 ------------------------------------------------------------------------
 
 ## Research Projects
