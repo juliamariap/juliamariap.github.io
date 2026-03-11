@@ -17,9 +17,8 @@ about:
 
 *Psychologist · Researcher*
 
-Driven by curiosity about the brain, behavior, and what lies between them.
-My work sits at the intersection of neuropsychology and clinical psychology,
-with a growing focus on face recognition and neuroimaging methods.
+I am curious about how the brain shapes the way we see and understand the worl.I’m particularly interested in face recognition, neuropsychology, and the use of neuroimaging to study these processes.
+
 ---
 
 This is a Quarto website.

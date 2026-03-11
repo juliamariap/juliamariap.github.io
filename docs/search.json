@@ -130,21 +130,28 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "I am particularly fascinated by face recognition — a deceptively complex cognitive process that touches identity, memory, social perception, and neural architecture. I am eager to explore this domain using neuroimaging methods such as fMRI and EEG."
+    "text": "I am particularly fascinated by face recognition — a deceptively complex cognitive process that is a lot about perception, memory, and social cognition. Recognizing a face is something we do effortlessly, yet it relies on highly specialized neural systems and finely tuned perceptual mechanisms.\nMy research interests focus on understanding how the brain supports this ability, and how variations in these processes can shape the way we perceive and interact with others. I am especially interested in exploring these questions using neuroimaging methods such as fMRI and EEG, which allow us to investigate the neural dynamics underlying face perception and recognition."
   },
   {
     "objectID": "research.html#current-interests",
     "href": "research.html#current-interests",
     "title": "Research",
     "section": "",
-    "text": "I am particularly fascinated by face recognition — a deceptively complex cognitive process that touches identity, memory, social perception, and neural architecture. I am eager to explore this domain using neuroimaging methods such as fMRI and EEG."
+    "text": "I am particularly fascinated by face recognition — a deceptively complex cognitive process that is a lot about perception, memory, and social cognition. Recognizing a face is something we do effortlessly, yet it relies on highly specialized neural systems and finely tuned perceptual mechanisms.\nMy research interests focus on understanding how the brain supports this ability, and how variations in these processes can shape the way we perceive and interact with others. I am especially interested in exploring these questions using neuroimaging methods such as fMRI and EEG, which allow us to investigate the neural dynamics underlying face perception and recognition."
+  },
+  {
+    "objectID": "research.html#more-broadly-i-am-drawn-to-questions-about-how-the-brain-integrates-perceptual-information-with-memory-and-identity-and-how-these-processes-shape-our-social-experience.-while-face-recognition-is-a-current-focus-of-my-curiosity-i-am-open-to-contributing-to-a-wide-range-of-questions-within-cognitive-neuroscience-neuropsychology-and-related-areas.",
+    "href": "research.html#more-broadly-i-am-drawn-to-questions-about-how-the-brain-integrates-perceptual-information-with-memory-and-identity-and-how-these-processes-shape-our-social-experience.-while-face-recognition-is-a-current-focus-of-my-curiosity-i-am-open-to-contributing-to-a-wide-range-of-questions-within-cognitive-neuroscience-neuropsychology-and-related-areas.",
+    "title": "Research",
+    "section": "More broadly, I am drawn to questions about how the brain integrates perceptual information with memory and identity, and how these processes shape our social experience. While face recognition is a current focus of my curiosity, I am open to contributing to a wide range of questions within cognitive neuroscience, neuropsychology, and related areas.",
+    "text": "More broadly, I am drawn to questions about how the brain integrates perceptual information with memory and identity, and how these processes shape our social experience. While face recognition is a current focus of my curiosity, I am open to contributing to a wide range of questions within cognitive neuroscience, neuropsychology, and related areas."
   },
   {
     "objectID": "research.html#research-projects",
     "href": "research.html#research-projects",
     "title": "Research",
     "section": "Research Projects",
-    "text": "Research Projects\nNeuropsychological Assessment in Schizophrenic Patients | 2019 – 2020\nUniversity of Vale do Sapucaí, Pouso Alegre, Brazil\nThis project examined the neuropsychological profiles of patients diagnosed with schizophrenia and evaluated their responses to multidisciplinary treatment. I contributed to patient assessments, data collection, and interpretation of findings. This became the foundation of my undergraduate thesis.\n→ Manuscript in preparation for publication.\n\n“For the Right to Exist: Transgender Representation in Media” | 2018 – 2019\nUniversity of Vale do Sapucaí, Pouso Alegre, Brazil\nResearch exploring how transgender and non-binary individuals are represented in media and advertising, and the social implications of these portrayals on public perceptions of gender identity.\n\nGender Equality Education Program for Children | 2018\nIntegrated Support Center for Women (CIAMPAR)\nDeveloped and implemented a community-based program aimed at educating children on gender equality.\n\nWomen’s Health Public Awareness Initiative | 2020\nUniversity of Vale do Sapucaí — Public Health Internship\nDigital public health campaign during COVID-19 on women’s health, domestic violence, sexuality, and mental health."
+    "text": "Research Projects\nNeuropsychological Assessment in Schizophrenic Patients | 2019 – 2020\nUniversity of Vale do Sapucaí, Pouso Alegre, Brazil\nThis project involved conducting a comprehensive psychological assessment of a patient diagnosed with schizophrenia. I designed and administered a battery of neuropsychological and psychological tests, integrating the results to build a detailed clinical case formulation. This work formed the basis of my undergraduate thesis.\n→ Manuscript in preparation for publication.\n\n“For the Right to Exist: Transgender Representation in Media” | 2018 – 2019\nUniversity of Vale do Sapucaí, Pouso Alegre, Brazil\nResearch exploring how transgender and non-binary individuals are represented in media and advertising, and the social implications of these portrayals on public perceptions of gender identity.\n\nGender Equality Education Program for Children | 2018\nIntegrated Support Center for Women (CIAMPAR)\nDeveloped and implemented a community-based program aimed at educating children on gender equality.\n\nWomen’s Health Public Awareness Initiative | 2020\nUniversity of Vale do Sapucaí — Public Health Internship\nDigital public health campaign during COVID-19 on women’s health, domestic violence, sexuality, and mental health."
   },
   {
     "objectID": "projects/project1.html",
@@ -158,7 +165,7 @@
     "href": "index.html",
     "title": "Julia Maria Pereira",
     "section": "",
-    "text": "Psychologist · Researcher\nDriven by curiosity about the brain, behavior, and what lies between them. My work sits at the intersection of neuropsychology and clinical psychology, with a growing focus on face recognition and neuroimaging methods. —\nThis is a Quarto website."
+    "text": "Psychologist · Researcher\nI am curious about how the brain shapes the way we see and understand the worl.I’m particularly interested in face recognition, neuropsychology, and the use of neuroimaging to study these processes.\n\nThis is a Quarto website."
   },
   {
     "objectID": "about.html",

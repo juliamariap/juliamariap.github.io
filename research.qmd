@@ -5,45 +5,42 @@ date-modified: last-modified
 
 ## Current Interests
 
-I am particularly fascinated by **face recognition** — a deceptively complex cognitive process 
-that touches identity, memory, social perception, and neural architecture. I am eager to explore 
-this domain using neuroimaging methods such as **fMRI** and **EEG**.
+I am particularly fascinated by face recognition — a deceptively complex cognitive process that is a lot about perception, memory, and social cognition. Recognizing a face is something we do effortlessly, yet it relies on highly specialized neural systems and finely tuned perceptual mechanisms.
 
----
+My research interests focus on understanding how the brain supports this ability, and how variations in these processes can shape the way we perceive and interact with others. I am especially interested in exploring these questions using neuroimaging methods such as fMRI and EEG, which allow us to investigate the neural dynamics underlying face perception and recognition.
+
+More broadly, I am drawn to questions about how the brain integrates perceptual information with memory and identity, and how these processes shape our social experience. While face recognition is a current focus of my curiosity, I am open to contributing to a wide range of questions within cognitive neuroscience, neuropsychology, and related areas.
+------------------------------------------------------------------------
 
 ## Research Projects
 
-**Neuropsychological Assessment in Schizophrenic Patients** | 2019 – 2020
+**Neuropsychological Assessment in Schizophrenic Patients** \| 2019 – 2020
 
 *University of Vale do Sapucaí, Pouso Alegre, Brazil*
 
-This project examined the neuropsychological profiles of patients diagnosed with schizophrenia 
-and evaluated their responses to multidisciplinary treatment. I contributed to patient 
-assessments, data collection, and interpretation of findings. This became the foundation of 
-my undergraduate thesis.
+This project involved conducting a comprehensive psychological assessment of a patient diagnosed with schizophrenia. I designed and administered a battery of neuropsychological and psychological tests, integrating the results to build a detailed clinical case formulation. This work formed the basis of my undergraduate thesis.
 
 → *Manuscript in preparation for publication.*
 
----
+------------------------------------------------------------------------
 
-**"For the Right to Exist: Transgender Representation in Media"** | 2018 – 2019
+**"For the Right to Exist: Transgender Representation in Media"** \| 2018 – 2019
 
 *University of Vale do Sapucaí, Pouso Alegre, Brazil*
 
-Research exploring how transgender and non-binary individuals are represented in media and 
-advertising, and the social implications of these portrayals on public perceptions of gender identity.
+Research exploring how transgender and non-binary individuals are represented in media and advertising, and the social implications of these portrayals on public perceptions of gender identity.
 
----
+------------------------------------------------------------------------
 
-**Gender Equality Education Program for Children** | 2018
+**Gender Equality Education Program for Children** \| 2018
 
 *Integrated Support Center for Women (CIAMPAR)*
 
 Developed and implemented a community-based program aimed at educating children on gender equality.
 
----
+------------------------------------------------------------------------
 
-**Women's Health Public Awareness Initiative** | 2020
+**Women's Health Public Awareness Initiative** \| 2020
 
 *University of Vale do Sapucaí — Public Health Internship*
 
